@@ -1,0 +1,4 @@
+.venv
+model.txt
+best_model.pth
+*.csv
